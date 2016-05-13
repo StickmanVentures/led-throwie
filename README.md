@@ -20,4 +20,4 @@ So you can build, snap, and go!
 
 ## What were they used for?
 
-We showed them off at Hickman Charter Schools' STEM Maker Faire. See our [blog post](blog/2016/05/12/sharing-technology-science-and-creativity-at-hickman-charters-stem-maker-faire/) for more information and additional press coverage.
+We showed them off at Hickman Charter Schools' STEM Maker Faire. See our [blog post](https://www.stickmanventures.com/blog/2016/05/12/sharing-technology-science-and-creativity-at-hickman-charters-stem-maker-faire/) for more information and additional press coverage.
